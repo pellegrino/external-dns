@@ -81,7 +81,7 @@ require (
 	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	gopkg.in/ns1/ns1-go.v2 v2.0.0-20190322154155-0dafb5275fd1
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	istio.io/api v0.0.0-20190321180614-db16d82d3672
 	istio.io/istio v0.0.0-20190322063008-2b1331886076
 	k8s.io/api v0.0.0-20190503184017-f1b257a4ce96
